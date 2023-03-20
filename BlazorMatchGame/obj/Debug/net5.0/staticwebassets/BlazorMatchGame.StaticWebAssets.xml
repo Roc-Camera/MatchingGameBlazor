@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Peipa\Desktop\coding\Blazor 消消乐游戏\BlazorMatchGame\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Peipa\Desktop\coding\Blazor 消消乐游戏\BlazorMatchGame\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/AntDesign" Path="C:\Users\Peipa\.nuget\packages\antdesign\0.13.3\build\..\staticwebassets\" />
+</StaticWebAssets>
